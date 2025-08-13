@@ -1,25 +1,24 @@
-Shrija Kandpal – Portfolio
+# Shrija Kandpal – Portfolio
+
 A personal portfolio website built using React.js, JavaScript, HTML, and CSS.
 
 It showcases my skills, experience, and projects in a clean, responsive layout.
 
-Features
-About Me section
+# Features
+**About Me section**
 
-Experience and Skills
+**Experience and Skills**
 
-Projects showcase
+**Projects showcase**
 
-Contact information
+**Contact information**
 
-Tech Used
-React.js
+# Tech Used
+**React.js**
+**JavaScript**
+**HTML**
 
-JavaScript
-
-HTML
-
-CSS
+**CSS**
 
 Live Demo
 https://portfolio-exd2.vercel.app/
