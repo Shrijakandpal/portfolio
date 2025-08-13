@@ -15,7 +15,9 @@ It showcases my skills, experience, and projects in a clean, responsive layout.
 
 # Tech Used
 **React.js**
+
 **JavaScript**
+
 **HTML**
 
 **CSS**
