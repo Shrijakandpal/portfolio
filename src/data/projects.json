@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Dice Game",
+    "imageSrc": "projects/diceGame.png",
+    "description": "A fun and simple web-based Dice Game built with HTML, CSS, and JavaScript. Test your luck by selecting a number and rolling the dice!",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/Shrijakandpal/Dice_Game"
+  },
+  {
+    "title": "Wellness Session App",
+    "imageSrc": "projects/session.png",
+    "description": "A full-stack wellness session management platform built with React, Node.js, Express, and MongoDB. It allows users to create, save as draft, and publish wellness sessions. ",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/Shrijakandpal/session-app"
+  },
+   {
+    "title": "Gemini Clone",
+    "imageSrc": "projects/gemini.png",
+    "description": "A front-end clone of Google's Gemini chat interface built using React, Vite, and CSS. This project is designed to replicate Gemini's elegant layout and user experience.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "source": "https://github.com/Shrijakandpal/gemini-clone"
+  }
+]

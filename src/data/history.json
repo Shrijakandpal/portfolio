@@ -1,0 +1,13 @@
+[
+    {
+        "role" : "Research Intern",
+        "organisation" : " Indian Institute Of Technology Roorkee",
+        "startDate" : "July, 2024",
+        "endDate" : "October, 2024",
+        "experience" : ["Researched advanced CNN concepts, including rotational equivalence and attention mechanisms. ", "Analyzed architectures such as ResNet and DenseNet, and explored enhancements using SE blocks and self-attention layers."],
+        "imageSrc" : "history/IIT.png"
+
+    }
+
+
+]
